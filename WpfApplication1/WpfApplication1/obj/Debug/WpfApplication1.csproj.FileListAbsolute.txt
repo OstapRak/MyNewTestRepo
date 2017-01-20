@@ -1,0 +1,14 @@
+C:\Users\ora\Documents\TestRepository\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\ora\Documents\TestRepository\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\ora\Documents\TestRepository\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\ora\Documents\TestRepository\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ora\Documents\TestRepository\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\ora\Documents\TestRepository\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\ora\Documents\TestRepository\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\ora\Documents\TestRepository\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\ora\Documents\TestRepository\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\ora\Documents\TestRepository\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\ora\Documents\TestRepository\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\ora\Documents\TestRepository\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\ora\Documents\TestRepository\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\ora\Documents\TestRepository\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
